@@ -1,13 +1,13 @@
 //
-//  JKG_newLimitedUITests.swift
-//  JKG_newLimitedUITests
+//  JDK_newLimitedUITests.swift
+//  JDK_newLimitedUITests
 //
-//  Created by 김정연 on 2020/12/14.
+//  Created by 김정연 on 2021/01/23.
 //
 
 import XCTest
 
-class JKG_newLimitedUITests: XCTestCase {
+class JDK_newLimitedUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
